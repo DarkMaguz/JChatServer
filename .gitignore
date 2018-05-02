@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+src/JChatServer
 
 # Autotools
 Makefile
